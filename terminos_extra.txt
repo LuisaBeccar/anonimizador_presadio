@@ -1,0 +1,10 @@
+# TÉRMINOS EXTRA — uno por línea
+# Las líneas que empiezan con # son comentarios (se ignoran)
+# No importa si escribís en mayúsculas o minúsculas
+#
+# Ejemplos:
+#   Godet
+#   Terbinafina
+#   Fx Sistólica
+
+Derrame
